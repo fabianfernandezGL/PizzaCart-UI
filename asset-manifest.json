@@ -1,20 +1,16 @@
 {
   "files": {
-    "main.css": "/PizzaCart-UI/static/css/main.e20938b6.chunk.css",
-    "main.js": "/PizzaCart-UI/static/js/main.0674e0d9.chunk.js",
-    "main.js.map": "/PizzaCart-UI/static/js/main.0674e0d9.chunk.js.map",
-    "runtime-main.js": "/PizzaCart-UI/static/js/runtime-main.9b0b3e67.js",
-    "runtime-main.js.map": "/PizzaCart-UI/static/js/runtime-main.9b0b3e67.js.map",
-    "static/js/2.dc85469f.chunk.js": "/PizzaCart-UI/static/js/2.dc85469f.chunk.js",
-    "static/js/2.dc85469f.chunk.js.map": "/PizzaCart-UI/static/js/2.dc85469f.chunk.js.map",
+    "main.css": "/PizzaCart-UI/static/css/main.c8e18599.css",
+    "main.js": "/PizzaCart-UI/static/js/main.1df35303.js",
+    "static/js/787.33f24276.chunk.js": "/PizzaCart-UI/static/js/787.33f24276.chunk.js",
+    "static/media/logo-white.svg": "/PizzaCart-UI/static/media/logo-white.522d77f696fb0c25cb8fab23efa093ee.svg",
     "index.html": "/PizzaCart-UI/index.html",
-    "static/css/main.e20938b6.chunk.css.map": "/PizzaCart-UI/static/css/main.e20938b6.chunk.css.map",
-    "static/js/2.dc85469f.chunk.js.LICENSE.txt": "/PizzaCart-UI/static/js/2.dc85469f.chunk.js.LICENSE.txt"
+    "main.c8e18599.css.map": "/PizzaCart-UI/static/css/main.c8e18599.css.map",
+    "main.1df35303.js.map": "/PizzaCart-UI/static/js/main.1df35303.js.map",
+    "787.33f24276.chunk.js.map": "/PizzaCart-UI/static/js/787.33f24276.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b0b3e67.js",
-    "static/js/2.dc85469f.chunk.js",
-    "static/css/main.e20938b6.chunk.css",
-    "static/js/main.0674e0d9.chunk.js"
+    "static/css/main.c8e18599.css",
+    "static/js/main.1df35303.js"
   ]
 }
