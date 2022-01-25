@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PizzaCart-UI/static/css/main.c8e18599.css",
-    "main.js": "/PizzaCart-UI/static/js/main.1df35303.js",
+    "main.css": "/PizzaCart-UI/static/css/main.0109529c.css",
+    "main.js": "/PizzaCart-UI/static/js/main.d23935fb.js",
     "static/js/787.33f24276.chunk.js": "/PizzaCart-UI/static/js/787.33f24276.chunk.js",
     "static/media/logo-white.svg": "/PizzaCart-UI/static/media/logo-white.522d77f696fb0c25cb8fab23efa093ee.svg",
     "index.html": "/PizzaCart-UI/index.html",
-    "main.c8e18599.css.map": "/PizzaCart-UI/static/css/main.c8e18599.css.map",
-    "main.1df35303.js.map": "/PizzaCart-UI/static/js/main.1df35303.js.map",
+    "main.0109529c.css.map": "/PizzaCart-UI/static/css/main.0109529c.css.map",
+    "main.d23935fb.js.map": "/PizzaCart-UI/static/js/main.d23935fb.js.map",
     "787.33f24276.chunk.js.map": "/PizzaCart-UI/static/js/787.33f24276.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8e18599.css",
-    "static/js/main.1df35303.js"
+    "static/css/main.0109529c.css",
+    "static/js/main.d23935fb.js"
   ]
 }
