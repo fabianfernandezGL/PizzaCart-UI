@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/PizzaCart-UI/static/css/main.1f1bd961.css",
-    "main.js": "/PizzaCart-UI/static/js/main.da47b0fb.js",
+    "main.js": "/PizzaCart-UI/static/js/main.f06b3ee0.js",
     "static/js/787.33f24276.chunk.js": "/PizzaCart-UI/static/js/787.33f24276.chunk.js",
     "static/media/logo-white.svg": "/PizzaCart-UI/static/media/logo-white.522d77f696fb0c25cb8fab23efa093ee.svg",
     "index.html": "/PizzaCart-UI/index.html",
     "main.1f1bd961.css.map": "/PizzaCart-UI/static/css/main.1f1bd961.css.map",
-    "main.da47b0fb.js.map": "/PizzaCart-UI/static/js/main.da47b0fb.js.map",
+    "main.f06b3ee0.js.map": "/PizzaCart-UI/static/js/main.f06b3ee0.js.map",
     "787.33f24276.chunk.js.map": "/PizzaCart-UI/static/js/787.33f24276.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f1bd961.css",
-    "static/js/main.da47b0fb.js"
+    "static/js/main.f06b3ee0.js"
   ]
 }
