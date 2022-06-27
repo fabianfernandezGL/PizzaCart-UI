@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.bd5053af.css","mappings":"+GAEA,EACE,2BACF","sources":["index.css"],"sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display&family=Rowdies:wght@300;700&display=swap');\n\n* {\n  font-family: 'Rowdies', cursive;\n}\n"],"names":[],"sourceRoot":""}
